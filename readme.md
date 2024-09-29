@@ -18,5 +18,22 @@ The user can filter data based on city, month, and day to generate customized in
     - Added a new function to validate user inputs, ensuring they are correct.
     - If an incorrect entry is made, the user receives an error message and is prompted to try again.
 
-2. **
+2. **Raw Data Display**: 
+    - Added the ability to display raw data in 5-row increments upon user request, making it easier to review and inspect the dataset interactively.
+
+## **Technologies Used**
+
+- **Programming Language**: Python
+- **Libraries**: Pandas, NumPy
+
+## **How to Use the Project**
+
+1. Run the script, and you will be prompted to select a city, month, and day using numeric values.
+2. The program will display a series of statistics based on the filtered data.
+3. You can opt to view the raw data 5 rows at a time, with the option to continue or stop after each display.
+
+## **License**
+
+This project is licensed under the name of Bassem Youssef Helmy.
+
 
